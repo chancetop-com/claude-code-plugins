@@ -1,0 +1,6 @@
+.claude/
+CLAUDE.md
+.idea/
+*.iml
+.DS_Store
+*.credentials
