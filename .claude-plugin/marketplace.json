@@ -4,6 +4,9 @@
         "name": "Chancetop"
     },
     "plugins": [
-        "core-ng"
+        {
+            "name": "core-ng",
+            "source": "../core-ng"
+        }
     ]
 }
