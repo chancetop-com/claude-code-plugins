@@ -3,5 +3,7 @@
     "owner": {
         "name": "Chancetop"
     },
-    "plugins": []
+    "plugins": [
+        "core-ng"
+    ]
 }
