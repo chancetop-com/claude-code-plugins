@@ -1,0 +1,8 @@
+{
+  "name": "tpm",
+  "description": "Team productivity and management tools including Jira requirement analysis",
+  "version": "0.0.1",
+  "author": {
+    "name": "Chancetop Team"
+  }
+}
